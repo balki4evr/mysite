@@ -2,7 +2,7 @@
 title: Thinking of Alternatives
 date: 2018-02-25T10:40:00.000Z
 tags: ruminating
-layout: posts
+layout: post
 published: true
 ---
 ## Consideration
