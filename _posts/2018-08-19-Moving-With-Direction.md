@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving with Direction
-categories: goals health
+tags: goals health
 published: true
 date: 2018-08-19T10:38:00.000Z
 ---
