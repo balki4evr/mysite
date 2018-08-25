@@ -11,3 +11,5 @@ I've been exercising (virtually) every day for over a year. According to my watc
 Most impactful and, probably, difficult thing for me to start doing again is tracking the intake. It doesn't really matter how much I exercise if I eat poopy. Which brings me to the second most impactful thing I can do. For a while I was doing a extremely low-carb thing and I could feel a difference in my body. Probably not going full [keto][keto], but I'll keep it low. So track what I eat and eat low carb. Totally do-able. Low carb, however, brings me to my kryptonites. 
 
 Sweets and alcohol. Two nutritiously void things that I consume, possibly, too often. Well, sweets I definitely consume too often. So what to do with those? Cut them out entirely? Give myself a rule of no more than X times per week? I don't know what the long term decision will be -- so I'll go extreme first and set myself a rule. No sweets, no added sugar, no ice cream, no pop, and no booze for three months. Let's see how it goes and re-evaluate then.
+
+[keto]: https://www.plantbasednews.org/post/no-one-should-be-doing-keto-diet-leading-cardiologist
