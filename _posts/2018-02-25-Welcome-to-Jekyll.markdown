@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Jekyll!
 date: 2018-02-25T00:00:00.000Z
-categories: jekyll update
+tags: jekyll update
 published: true
 tags: huh
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Maybe It's Not?
 date: 2018-02-28T00:00:00.000Z
-categories: jekyll update
+tags: jekyll update
 published: true
 tags: code 
 ---
